@@ -66,5 +66,5 @@ This project demonstrates how data analytics and visualization can help business
 Saksham
 
 ## Connect With Me
-- LinkedIn: Add Your LinkedIn Link
-- GitHub: Add Your GitHub Link
+- LinkedIn: https://www.linkedin.com/in/saksham9090
+- GitHub: https://github.com/saksham9090
